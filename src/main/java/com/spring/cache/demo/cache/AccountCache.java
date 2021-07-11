@@ -1,6 +1,6 @@
-package com.spring.batch.batchdemo.cache;
+package com.spring.cache.demo.cache;
 
-import com.spring.batch.batchdemo.model.Account;
+import com.spring.cache.demo.model.Account;
 
 public interface AccountCache {
     Account findAccount(Long accountId);

@@ -1,4 +1,4 @@
-package com.spring.batch.batchdemo.configuration;
+package com.spring.cache.demo.configuration;
 
 import org.springframework.cache.CacheManager;
 import org.springframework.cache.annotation.EnableCaching;

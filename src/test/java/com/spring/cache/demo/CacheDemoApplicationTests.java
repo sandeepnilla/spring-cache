@@ -1,10 +1,10 @@
-package com.spring.batch.batchdemo;
+package com.spring.cache.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BatchdemoApplicationTests {
+class CacheDemoApplicationTests {
 
     @Test
     void contextLoads() {

@@ -1,7 +1,7 @@
-package com.spring.batch.batchdemo.controller;
+package com.spring.cache.demo.controller;
 
-import com.spring.batch.batchdemo.cache.impl.AccountCacheImpl;
-import com.spring.batch.batchdemo.model.Account;
+import com.spring.cache.demo.cache.impl.AccountCacheImpl;
+import com.spring.cache.demo.model.Account;
 import org.springframework.web.bind.annotation.*;
 
 @RequestMapping("/account")

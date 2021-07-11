@@ -1,6 +1,6 @@
-package com.spring.batch.batchdemo.repo;
+package com.spring.cache.demo.repo;
 
-import com.spring.batch.batchdemo.model.Account;
+import com.spring.cache.demo.model.Account;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

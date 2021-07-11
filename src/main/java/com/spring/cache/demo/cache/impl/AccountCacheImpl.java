@@ -1,8 +1,8 @@
-package com.spring.batch.batchdemo.cache.impl;
+package com.spring.cache.demo.cache.impl;
 
-import com.spring.batch.batchdemo.cache.AccountCache;
-import com.spring.batch.batchdemo.model.Account;
-import com.spring.batch.batchdemo.repo.AccountRepository;
+import com.spring.cache.demo.cache.AccountCache;
+import com.spring.cache.demo.model.Account;
+import com.spring.cache.demo.repo.AccountRepository;
 import org.springframework.cache.annotation.CacheConfig;
 import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.cache.annotation.CachePut;

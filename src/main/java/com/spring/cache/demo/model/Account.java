@@ -1,4 +1,4 @@
-package com.spring.batch.batchdemo.model;
+package com.spring.cache.demo.model;
 
 import lombok.Data;
 
